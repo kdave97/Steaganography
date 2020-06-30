@@ -169,7 +169,7 @@ def retr(filename):
 			else:
 				binary=binary+digit
 				if (binary[-16:]=='1111111111111110'):
-					print ("Sucess")
+					print ("Success")
 					return bin2str(binary[:-16])
 					
 		return bin2str(binary)
