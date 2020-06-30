@@ -10,7 +10,7 @@ Run the python file using Spyder/ Python IDLE.
 
 
 1) Home Screen for the application. Click on the Steganography button.
-![alt text](https://github.com/kdave97/Steganography/blob/master/output/1.PNG){border: 1px solid black}
+![alt text](https://github.com/kdave97/Steganography/blob/master/output/1.PNG){: border: 1px solid black}
 
 2) You can either select Encryption or Decryption of an image. We will start by Encrypting a text in an image.
 ![alt text](https://github.com/kdave97/Steganography/blob/master/output/2.PNG)
