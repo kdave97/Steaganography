@@ -1,16 +1,17 @@
 # Steaganography
 
 The project focuses on implementing and algorithm to encrypt and decrypt text from Images.
-It allows the user to encryt a message in a pic as well as decrypt a text from the image. 
+It allows the user to encryt a message in a image as well as decrypt a text from the image. 
 I have also implemented a Ceaser Cipher algorithm.
-Once the file runs it asks the user to perform which task he wants to perform.
-It asks the user to upload a pic and enter the text that it wants to encrypt.
 
-Run the python file using Spyder/ Python IDLE.
+## Launching the program
+You can launch the program in 2 ways:
+1) Steganography_cipher.exe - An executable file has been created for this code and is available in dist folder. Run the steganography_cipher.exe by opening the application.
+2) command line/ Spyder - On command line, navigate to the code repository. Type python Steganography_Cipher.py to launch it. You can also run the script through spyder by clicking on run button.
 
-
+## Steps to run the algorithm
 1) Home Screen for the application. Click on the Steganography button.
-![alt text](https://github.com/kdave97/Steganography/blob/master/output/1.PNG){ border="1px solid black"}
+![alt text](https://github.com/kdave97/Steganography/blob/master/output/1.PNG)
 
 2) You can either select Encryption or Decryption of an image. We will start by Encrypting a text in an image.
 ![alt text](https://github.com/kdave97/Steganography/blob/master/output/2.PNG)
